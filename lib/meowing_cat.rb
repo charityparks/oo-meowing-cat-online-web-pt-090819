@@ -1,4 +1,4 @@
-class catch
+class Ct 
   attr_accessor :name 
  
  def meow
